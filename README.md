@@ -33,9 +33,9 @@
    * Ch6_2 [物件與類別基礎](https://github.com/xvpowerg/java20201117/blob/main/ch5_20201201/Ch6_2.java)
    * Ch6_3 [封裝 (Encapsulation)](https://github.com/xvpowerg/java20201117/blob/main/ch5_20201201/Ch6_3.java)
 + Ch7
-   * Ch7_1 [建構式](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/Ch7_1.java)
-   * Ch7_2 [繼承1](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/Ch7_2.java)
-   * Ch7_3 [繼承2](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/Ch7_3.java)
-   * Ch7_4 [作業](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/Ch7_4.java)
-   * Ch7_5 [字串函數](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/Ch7_5.java)
+   * Ch7_1 [建構式](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/ch7_1_construct/Ch7_1.java)
+   * Ch7_2 [繼承1](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208//ch7_2_extends_part1/Ch7_2.java)
+   * Ch7_3 [繼承2](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/ch7_3_extends_part2/Ch7_3.java)
+   * Ch7_4 [作業](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/ch7_4_HomeWork/Ch7_4.java)
+   * Ch7_5 [字串函數](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/ch7_5_StringMethod/Ch7_5.java)
    
