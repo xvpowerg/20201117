@@ -18,7 +18,6 @@
   * Ch2_8 [標籤](https://github.com/xvpowerg/java20201117/blob/main/ch2_20201119/Ch2_8.java)
   * Ch2_9 [while do while](https://github.com/xvpowerg/java20201117/blob/main/ch2_20201119/Ch2_9.java)
   * Ch2_10 [一維陣列](https://github.com/xvpowerg/java20201117/blob/main/ch2_20201119/Ch2_10.java)
-
 + Ch5
    * Ch5_1 [長參數(vargs)](https://github.com/xvpowerg/java20201117/blob/main/ch5_20201201/Ch5_1.java)
    * Ch5_2 [封箱(基本型態變物件)](https://github.com/xvpowerg/java20201117/blob/main/ch5_20201201/Ch5_2.java)
@@ -33,3 +32,10 @@
    * Ch6_1 [函數模組化練習](https://github.com/xvpowerg/java20201117/blob/main/ch5_20201201/Ch6_1.java)
    * Ch6_2 [物件與類別基礎](https://github.com/xvpowerg/java20201117/blob/main/ch5_20201201/Ch6_2.java)
    * Ch6_3 [封裝 (Encapsulation)](https://github.com/xvpowerg/java20201117/blob/main/ch5_20201201/Ch6_3.java)
++ Ch7
+   * Ch7_1 [建構式](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/Ch7_1.java)
+   * Ch7_2 [繼承1](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/Ch7_2.java)
+   * Ch7_3 [繼承2](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/Ch7_3.java)
+   * Ch7_4 [作業](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/Ch7_4.java)
+   * Ch7_5 [字串函數](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/Ch7_5.java)
+   
