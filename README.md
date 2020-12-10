@@ -37,5 +37,9 @@
    * Ch7_2 [繼承1](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208//ch7_2_extends_part1/Ch7_2.java)
    * Ch7_3 [繼承2](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/ch7_3_extends_part2/Ch7_3.java)
    * Ch7_4 [作業](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/ch7_4_HomeWork/Ch7_4.java)
-   * Ch7_5 [字串函數](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/ch7_5_StringMethod/Ch7_5.java)
-   
+   * Ch7_5 [字串函數](https://github.com/xvpowerg/java20201117/blob/main/ch7_20201208/ch7_5_StringMethod/Ch7_5.java)   
++ Ch8
+  * ch8_1[簡單覆寫作業](https://github.com/xvpowerg/java20201117/tree/main/ch8_20201210/ch8_1_override)
+  * ch8_2[建構子考題](https://github.com/xvpowerg/java20201117/tree/main/ch8_20201210/ch8_2_test1)
+  * ch8_3[存取修飾詞](https://github.com/xvpowerg/java20201117/blob/main/ch8_20201210/ch8_3_modifier/Ch8_3.java)
+  
