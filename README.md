@@ -42,4 +42,7 @@
   * ch8_1[簡單覆寫作業](https://github.com/xvpowerg/java20201117/tree/main/ch8_20201210/ch8_1_override)
   * ch8_2[建構子考題](https://github.com/xvpowerg/java20201117/tree/main/ch8_20201210/ch8_2_test1)
   * ch8_3[存取修飾詞](https://github.com/xvpowerg/java20201117/blob/main/ch8_20201210/ch8_3_modifier/Ch8_3.java)
-  
++ Ch9
+  * ch9_1[覆寫規則](https://github.com/xvpowerg/java20201117/tree/main/ch9_20201215/ch9_1_override1)
+  * Ch9_2[例外案例](https://github.com/xvpowerg/java20201117/tree/main/ch9_20201215/ch9_2_exception1)
+  * Ch9_3[例外說明](https://github.com/xvpowerg/java20201117/tree/main/ch9_20201215/ch9_2_exception2)  
