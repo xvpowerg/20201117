@@ -46,7 +46,7 @@
   * ch9_1[覆寫規則](https://github.com/xvpowerg/java20201117/tree/main/ch9_20201215/ch9_1_override1)
   * Ch9_2[例外案例](https://github.com/xvpowerg/java20201117/tree/main/ch9_20201215/ch9_2_exception1)
   * Ch9_3[例外說明](https://github.com/xvpowerg/java20201117/tree/main/ch9_20201215/ch9_2_exception2)  
- + Ch10
++ Ch10
   * ch10_1[常用覆寫](https://github.com/xvpowerg/java20201117/tree/main/ch10_20201217/ch10_1_obj_override)
   * Ch10_2[非靜態初始化區塊](https://github.com/xvpowerg/java20201117/tree/main/ch10_20201217/ch10_2_initblock1)
   * Ch10_3[靜態初始化區塊](https://github.com/xvpowerg/java20201117/tree/main/ch10_20201217/ch10_3_staticInitblock2)   
